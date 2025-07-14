@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a bilingual undergraduate CS student with a passion for learning and an interest in game development! I've spoken French for most of my life; English was my first language. I mainly program on Windows with VSCode (or Visual Studio when needed), but I'm looking forward to one day learning NeoVim, as my recent Arch dual-boot installation has given experience with Vim.
+I am a bilingual undergraduate CS student with a passion for learning and an interest in game development! I've spoken French for most of my life; English was my first language. I mainly program on Windows with VSCode (or Visual Studio when needed), but I'm looking forward to one day learning NeoVim, as my recent Arch dual-boot installation has given me some experience with Vim.
 
 
 ## 🌐 Socials:
