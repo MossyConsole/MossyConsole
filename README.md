@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a bilingual undergraduate CS student with a passion for learning and an interest in game development! I've spoken French for most of my life, and English was my first language.
+I am a bilingual undergraduate CS student with a passion for learning and an interest in game development! I've spoken French for most of my life; English was my first language.
 
 
 ## 🌐 Socials:
