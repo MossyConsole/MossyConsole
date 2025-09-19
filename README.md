@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 I am a bilingual undergraduate CS student with a passion for learning and an interest in game development! I've spoken French for most of my life; English was my first language. I mainly program on Windows with VSCode (or Visual Studio when needed), but I'm looking forward to one day learning NeoVim, as my recent Arch dual-boot installation has given me some experience with Vim.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benoit-thompson-006215353/) [![MuseScore](https://img.shields.io/badge/MuseScore-49D5AB?logo=musescore&logoColor=white)](https://musescore.com/user/66450031?share=copy_link) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ninjaben1107@gmail.com) 
 
 # 💻 Technologies I've Used:
