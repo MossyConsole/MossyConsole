@@ -1,5 +1,5 @@
 # About Me:
-I am an undergraduate McMaster CS student passionate about learning! I mainly program on Windows with VSCode (or Visual Studio when needed), but long-term I'm looking forward to learning NeoVim.
+I am an undergraduate McMaster CS student passionate about learning. I mainly program for school and hackathons, on Windows with VSCode.
 
 
 ## Socials:
