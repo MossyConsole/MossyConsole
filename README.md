@@ -1,5 +1,5 @@
 # About Me:
-I am an undergraduate McMaster CS student passionate about learning. I mainly program for school and hackathons, on Windows with VSCode.
+I am an undergraduate student in the faculty of Engineering at McMaster University pursuing a bachelor's degree in Computer Science. I am currently looking for a 4-month co-op placement for the summer of 2026 starting in May.
 
 
 # Socials:
